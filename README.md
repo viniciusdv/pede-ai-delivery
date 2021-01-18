@@ -7,4 +7,4 @@ Projeto desenvolvido na semana DevSuperior.
 
 ### Instalação
 
-Para rodar aplicação é necessario possuir a instalação do React e tambem SpringTools
+Para rodar aplicação é necessario possuir a instalação do React e tambem a IDE SpringTools;
