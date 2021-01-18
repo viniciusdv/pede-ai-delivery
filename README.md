@@ -6,6 +6,8 @@ Projeto desenvolvido na semana DevSuperior.
 
 Aplicação em Produção : https://vinicius-vivian.netlify.app/
 
+Backend API: https://vinicius-vivian.herokuapp.com
+
 
 ### Instalação
 
